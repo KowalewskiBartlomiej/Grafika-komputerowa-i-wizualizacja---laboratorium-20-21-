@@ -1,0 +1,13 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: Katalog pośredni (Debug\) zawiera pliki udostępnione z innego projektu (pl_szkielet_03_win.vcxproj, pl_szkielet_08_win.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main_file.cpp
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\main_file.cpp(55,21): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\main_file.cpp(56,21): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\main_file.cpp(322,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\main_file.cpp(335,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\main_file.cpp(450,27): warning C4244: "=": konwersja z "double" do "float", możliwa utrata danych
+  mesh.cpp
+  model.cpp
+  shaderprogram.cpp
+  textureFromFile.cpp
+  Generowanie kodu...
+  pl_szkielet_03_win.vcxproj -> C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\Debug\Chess3D.exe

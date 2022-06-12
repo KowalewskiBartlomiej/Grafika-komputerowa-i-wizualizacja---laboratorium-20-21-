@@ -1,0 +1,4 @@
+C:\Users\Bartek\Desktop\Studia - materiały\Semestr IV\Grafika komputerowa i wizualizacja - laboratorium\Lab3\pl_szkielet_03_win\Debug\pl_szkielet_03_win.exe
+C:\Users\Uczelnia\OneDrive\Studia\Semestr IV\Grafika komputerowai wizualizacja\Nowy folder\pl_szkielet_08_win\Debug\pl_szkielet_03_win.exe
+C:\Users\Bartek\Desktop\pl_szkielet_08_win\Debug\Chess3D.exe
+C:\Users\Bartek\Desktop\Jedrzej_Koscielniak_Bartlomiej_Kowalewski\Debug\Chess3D.exe
